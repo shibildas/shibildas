@@ -148,7 +148,7 @@
     color: rgb(172, 172, 172);
 }
 section{
-    background-image: url(/icon/ply.png);
+    background-image: url(../icon/ply.png);
     background-size: 110px;   
     background-position: center;
     background-repeat: no-repeat;
