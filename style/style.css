@@ -155,6 +155,7 @@ section{
     color: rgb(226, 226, 226);
 }
 section:hover{
+    transition:1.4s;
     opacity: 1;
     transform: scale(1.1);
 }
@@ -166,5 +167,8 @@ section:hover{
 }
 .c1:hover,.c2:hover,.c3:hover,.c4:hover{
     text-decoration: underline;
-    
+}
+.fa-heart{
+    color: green;
+   
 }
