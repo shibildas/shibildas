@@ -11,3 +11,12 @@ Here are some of the technologies and skills that I have learned and I'm confide
 - API: REST
 - Version control: Git
 - Web Server: Nginx
+
+
+## Contact
+
+If you have any questions or would like to discuss a potential collaboration, please feel free to contact me at shibildas@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/shibil-dev/). I'm always happy to chat with fellow developers and learn new things.
+
+
+
+Thank you for visiting my GitHub profile.
