@@ -5,12 +5,14 @@ Hello, and welcome to my GitHub profile! I'm a MERN stack developer. I'm passion
 ## Skills
 Here are some of the technologies and skills that I have learned and I'm confident in:
 
-- Front-end development: React
+- Front-end development: React, Redux
 - Back-end development: Node.js, Express.js
 - Database: MongoDB, MySQL, Firebase
 - API: REST
 - Version control: Git
+- Cloud: aws , digital ocean
 - Web Server: Nginx
+- Integrations: Swagger UI, MomentJs, Nodemailer, Twilio, Paypal, Razorpay, Cloudinary 
 
 
 ## Contact
