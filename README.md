@@ -2,6 +2,9 @@
 
 Hello, and welcome to my GitHub profile! I'm a MERN stack developer. I'm passionate about learning and applying new technologies to build modern web applications.
 
+## Leetcode
+![Leetcode](https://res.cloudinary.com/dpfnxwvps/image/upload/v1687410648/Screenshot_from_2023-06-22_10-37-38_asthor.avif)
+
 ## Skills
 Here are some of the technologies and skills that I have learned and I'm confident in:
 
