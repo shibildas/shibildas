@@ -1,9 +1,10 @@
 # 🚀 Shibil Das | Lead Software Engineer
 
 <p align="left">
+  <a href="https://shibildas.github.io/shibildas/"><img src="https://img.shields.io/badge/Live_Portfolio-shibildas.github.io%2Fshibildas-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://linkedin.com/in/shibil-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@shibildas"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://github.com/shibildas/RelayQueue"><img src="https://img.shields.io/badge/Featured_Project-RelayQueue-0d9488?style=for-the-badge&logo=zap&logoColor=white" alt="RelayQueue" /></a>
+  <a href="https://github.com/shibildas/RelayQueue"><img src="https://img.shields.io/badge/Featured_Project-RelayQueue-6366f1?style=for-the-badge&logo=zap&logoColor=white" alt="RelayQueue" /></a>
   <a href="https://leetcode.com/shibildev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://komarev.com/ghpvc/?username=shibildas&style=for-the-badge&color=0d9488" alt="Profile Views" />
 </p>
@@ -131,7 +132,7 @@ I write deep-dive architectural essays on Medium covering distributed systems, n
 
 ## 📬 Contact & Connect
 
-- 🌐 **Portfolio Website:** [shibildas.github.io](https://shibildas.github.io)
+- 🌐 **Portfolio Website:** [shibildas.github.io/shibildas](https://shibildas.github.io/shibildas/)
 - 💼 **LinkedIn:** [linkedin.com/in/shibil-dev](https://www.linkedin.com/in/shibil-dev/)
 - 📝 **Medium:** [medium.com/@shibildas](https://medium.com/@shibildas)
 - ✉️ **Email:** [shibildas@gmail.com](mailto:shibildas@gmail.com)
